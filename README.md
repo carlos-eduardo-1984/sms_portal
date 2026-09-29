@@ -29,6 +29,8 @@ Horário: {HORARIO}
 ## Integração SMS
 Substituir os pontos do método verificarLembretes() por chamadas para Android SMS Gateway.
 
+O endpoint:  http://192.168.1.120:8080/send-sms
+
 ## Publicação
 1. Criar repositório GitHub.
 2. Fazer upload dos arquivos.
