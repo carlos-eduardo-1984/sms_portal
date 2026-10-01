@@ -67,3 +67,5 @@ O endpoint:  http://192.168.1.120:8080/send-sms
 2. Fazer upload dos arquivos.
 3. Ativar GitHub Pages.
 4. Abrir URL publicada.
+
+https://carlos-eduardo-1984.github.io/sms_portal/
